@@ -1,0 +1,8 @@
+scipy==1.6.1
+numpy==1.16.4
+matplotlib==3.3.
+opencv-contrib-python==4.1.1.26
+opencv-python==4.1.0.25
+tensorflow-gpu==1.14.0
+
+
