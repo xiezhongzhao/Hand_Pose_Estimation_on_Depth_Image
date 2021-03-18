@@ -32,7 +32,7 @@ Carry out the command  `conda activate *your virutal name*`, then perform the co
 
 Compared to the other methods, the proposed method  is not only efficient and accurate, but it also obtains the lowest error.
 
-| Method/3D mean error       | 3D关节点平均误差（mm） |
+| Method/3D mean error       | 3D Joints Average Errors（mm） |
 | :------------------------- | :--------------------: |
 | Feedback (ICCV 2015)       |         15.973         |
 | 3DCNN (CVPR 2017)          |         14.113         |
